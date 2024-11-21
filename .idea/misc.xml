@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="E:\anaconda" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (pytorch)" project-jdk-type="Python SDK" />
@@ -10,4 +11,18 @@
   <component name="PyPackaging">
     <option name="earlyReleasesAsUpgrades" value="true" />
   </component>
+=======
+<<<<<<< HEAD
+    <option name="sdkName" value="E:\anaconda" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (pytorch)" project-jdk-type="Python SDK" />
+  <component name="PyPackaging">
+    <option name="earlyReleasesAsUpgrades" value="true" />
+  </component>
+=======
+    <option name="sdkName" value="pytorch" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (pytorch)" project-jdk-type="Python SDK" />
+>>>>>>> 91731f271241b1e960e0146e0db6bce741dea8cd
+>>>>>>> f54f8261573a2640e684e05122f4263af2f1de07
 </project>
